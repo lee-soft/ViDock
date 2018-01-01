@@ -1,0 +1,6 @@
+<taskbar>
+   <startbutton x-padding="5" />
+   <menubar x-padding="5" />
+   <trayarrow x-padding="5" />
+   <clock x-padding="5" />
+</taskbar>

@@ -1,0 +1,10 @@
+<button src="dock_arrow.png" id="tray_arrow">
+
+   <slice_index>
+      <slice x="0" y="0" width="16" height="16" anchor="tl" />
+   </slice_index>
+
+   <state x="0" y="0" width="16" height="16" id="unpressed"/>
+   <state x="0" y="16" width="16" height="16" id="pressed"/>
+
+</button>

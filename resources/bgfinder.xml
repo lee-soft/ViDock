@@ -1,0 +1,8 @@
+<slice_index src="bgfinder.png" id="background">
+
+   <slice x="0" y="0" width="1" height="36" anchor="tl"/>
+   <slice x="1" y="0" width="318" height="36" anchor="tl" stretch="x" />
+   <slice x="319" y="0" width="1" height="36" anchor="tr" />
+
+   <slice x="0" y="0" width="320" height="23" anchor="tl" id="body"/>
+</slice_index>

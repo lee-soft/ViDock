@@ -1,0 +1,19 @@
+<theme xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<font size="15" colour1="000000" colour2="ffffff" face="Helvetica Neue" />
+
+<xi:include href="margins.xml"/>
+<xi:include href="dock_popup.xml"/>
+<xi:include href="dock_groupmenu_pointer.xml"/>
+<xi:include href="orb.xml"/>
+<xi:include href="bgfinder.xml"/>
+<xi:include href="dock_groupmenu.xml"/>
+<xi:include href="dock_groupmenu_clipped.xml"/>
+<xi:include href="dock_groupmenu_states.xml"/>
+<xi:include href="dock_groupmenu_states_pointer.xml"/>
+<xi:include href="menu_states.xml"/>
+<xi:include href="dock_arrow_states.xml"/>
+<xi:include href="dock_traypopup.xml"/>
+<xi:include href="indicator_state.xml"/>
+
+</theme>

@@ -1,0 +1,11 @@
+<button src="orb.png" id="start_button">
+
+   <slice_index>
+      <slice x="0" y="0" width="54" height="54" anchor="tl" />
+   </slice_index>
+
+   <state x="0" y="0" width="54" height="54" id="unpressed"/>
+   <state x="0" y="54" width="54" height="54" id="over"/>
+   <state x="0" y="108" width="54" height="54" id="pressed"/>
+
+</button>

@@ -1,0 +1,20 @@
+<button src="dock_groupmenu_states.png" id="pointer_list_window_button">
+
+   <slice_index>
+      <slice x="0" y="0" width="51" height="3" anchor="tl" />
+      <slice x="51" y="0" width="2" height="3" anchor="tl" stretch="x" />
+      <slice x="53" y="0" width="51" height="3" anchor="tr" />
+      <slice x="0" y="3" width="51" height="68" anchor="tl" stretch="y" />
+      <slice x="0" y="71" width="51" height="3" anchor="bl" />
+      <slice x="51" y="71" width="2" height="3" anchor="bl" stretch="x" />
+      <slice x="53" y="71" width="51" height="3" anchor="br" />
+      <slice x="53" y="3" width="51" height="68" anchor="tr" stretch="y" />
+
+      <slice x="51" y="3" width="2" height="68" anchor="tl" stretch="yx" />
+   </slice_index>
+
+   <state x="0" y="74" width="104" height="74" id="pressed"/>
+   <state x="0" y="148" width="104" height="74" id="unpressed"/>
+   <state x="0" y="222" width="104" height="74" id="notice"/>
+
+</button>

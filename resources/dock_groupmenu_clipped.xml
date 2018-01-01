@@ -1,0 +1,17 @@
+<slice_index src="dock_groupmenu.png" id="list_window_clipped">
+
+   <slice x="126" y="0" width="1" height="1" anchor="tr"/>
+   <slice x="0" y="0" width="1" height="1" anchor="tl"/>
+
+   <slice x="0" y="126" width="30" height="30" anchor="bl" y-overflow="-30" />
+   
+   <slice x="126" y="126" width="30" height="30" anchor="br" y-overflow="-30"  />
+
+   <slice x="30" y="0" width="10" height="30" stretch="x" anchor="tl" x-margin="60" />
+   <slice x="0" y="30" width="30" height="96" stretch="y" anchor="tl" y-overflow="-30" />
+
+   <slice x="30" y="130" width="96" height="26" stretch="x" anchor="bl" y-overflow="-30" />
+   <slice x="126" y="30" width="30" height="96" stretch="y" anchor="tr" y-overflow="-30" />
+
+   <slice x="30" y="30" width="96" height="100" stretch="xy" anchor="tl" y-overflow="-30"  />
+</slice_index>

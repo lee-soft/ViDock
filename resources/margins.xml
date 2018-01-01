@@ -1,0 +1,11 @@
+<margins>
+    <margin id="pointer_list_window_button" height="20" x-overflow="30" y-overflow="2" x="15" />
+    <margin id="list_window_button" height="20" x-overflow="30" y-overflow="2" x="15" />
+
+    <margin id="pointer_list_window_text" x="30" y="30" />
+    <margin id="list_window_text" x="30" y="30" />
+    <margin id="list_window_text_clipped" x="30" y="4" />
+    <margin id="list_window_seperator" x="15" y="0" x-overflow="30" />
+    <margin id="bgfinder_shadow" x="0" y="22" width="1" height="13" />
+    <margin id="list_window_shadow" x="0" y="0" width="14" height="0" />
+</margins>
