@@ -18,8 +18,9 @@ The last lee-soft project. Created for the Windows X OSX Transformation Pack.
 - Ensure you have Visual Basic 6.0(Service Pack 6) installed
 - Grab the WinU and GDIPlus TLB - extract the TLBs and add as a reference to the project
 - Grab the HookMe zip - extract the files (IHookSink.cls, MHookMe.bas) over the placeholder files (IHookSink.cls, MHookMe.bas) and disregard any other files
-- Grab the Extended GDIPlusWrapper library - extract contents to "GDIPlusWrapper" and follow instructions for creating the library
-- Add the resulting binary to ViDock Release/GDIPlusWrapper.dll
+- ~~Grab the Extended GDIPlusWrapper library - extract contents to "GDIPlusWrapper" and follow instructions for creating the library~~
+- Grab the release of the [GDIPlusWrapper library](https://github.com/lee-soft/GDIPlusWrapper/releases) and re-add it as a reference to this project
+- Compile and enjoy
 
 ## Acknolwedgements
 
